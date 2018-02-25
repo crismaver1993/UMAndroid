@@ -1,158 +1,163 @@
 {
-"code":200,
-"schedule":[
-
-{"id":1,
-"day":"Monday",
-"hours":[{
-"topic":"Java I",
-"classroom":"5B",
-"starthour":"13:50",
-"endhour":"15:30",
-"teacher": "Ing. Ignacio Cruz",
-"semestre": "I"
-},
-{
-"topic":"Hora del Poder",
-"classroom":"2C",
-"starthour":"15:30",
-"endhour":"15:50",
-"teacher": "Paloma H.",
-"semestre": "I"
-},
-{
-"topic":"Diseño I",
-"classroom":"2C",
-"starthour":"15:50",
-"endhour":"16:35",
-"teacher": "Paloma H.",
-"semestre": "I"
-},
-{
-"topic":"Testing I",
-"classroom":"2C",
-"starthour":"16:35",
-"endhour":"18:40",
-"teacher": "Raúl Guajardo",
-"semestre": "I"
-}]
-},
-
-
-{"id":2,
-"day":"Tuesday",
-"hours":[{
-"topic":"Matemáticas I",
-"classroom":"4A",
-"starthour":"13:50",
-"endhour":"17:30",
-"teacher": "Profr. Raúl Rodríguez",
-"semestre": "I"
-},
-{
-"topic":"Física I",
-"classroom":"2D",
-"starthour":"17:30",
-"endhour":"19:50",
-"teacher": "Fernando Pérez",
-"semestre": "I"
-}]
-},
-
-
-{"id":3,
-"day":"Wednesday",
-"hours":[{
-"topic":"Inteligencia Artificial",
-"classroom":"2A",
-"starthour":"13:50",
-"endhour":"16:35",
-"teacher": "Dr. Harvey Alferez",
-"semestre": "I"
-},
-{
-"topic":"Realidad Aumentada",
-"classroom":"2C",
-"starthour":"16:35",
-"endhour":"19:50",
-"teacher": "Gerardo Romo",
-"semestre": "I"
-}]
-},
-
-
-{"id":4,
-"day":"Thursday",
-"hours":[{
-"topic":"Programación Web I",
-"classroom":"3A",
-"starthour":"13:50",
-"endhour":"15:30",
-"teacher": "Dr. Félix Muñóz",
-"semestre": "I"
-},
-
-{
-"topic":"Compiladores I",
-"classroom":"1A",
-"starthour":"13:50",
-"endhour":"14:40",
-"teacher": "Bill Gates",
-"semestre": "I"
-},
-
-{
-"topic":"Realidad Aumentada I",
-"classroom":"4D",
-"starthour":"14:40",
-"endhour":"16:35",
-"teacher": "Soraya López",
-"semestre": "I"
-},
-{
-"topic":"Redes I",
-"classroom":"2D",
-"starthour":"16:40",
-"endhour":"18:35",
-"teacher": "Carlos Sánchez",
-"semestre": "I"
-}]
-},
-
-{"id":5,
-"day":"Friday",
-"hours":[{
-"topic":"Base de datos",
-"classroom":"3A",
-"starthour":"13:50",
-"endhour":"14:40",
-"teacher": "Ing. Saulo Juárez",
-"semestre": "I"
-},
-{
-"topic":"Metodologías Ágiles",
-"classroom":"1A",
-"starthour":"13:50",
-"endhour":"14:40",
-"teacher": "Steve Jobs",
-"semestre": "I"
-},
-{
-"topic":"Emprendimiento I",
-"classroom":"4D",
-"starthour":"14:40",
-"endhour":"13:30",
-"teacher": "Elon Musk",
-"semestre": "I"
-},
-{
-"topic":"Big Data",
-"classroom":"5D",
-"starthour":"13:55",
-"endhour":"14:35",
-"teacher": "Dr. Edison Vázquez",
-"semestre": "I"
-}]
-}
-]
+   "code":200,
+   "schedule":[
+      {
+         "id":1,
+         "day":"Monday",
+         "data":[
+            {
+               "topic":"Java I",
+               "classroom":"5B",
+               "starthour":"13:50",
+               "endhour":"15:30",
+               "teacher":"Ing. Ignacio Cruz",
+               "semestre":"I"
+            },
+            {
+               "topic":"Hora del Poder",
+               "classroom":"2C",
+               "starthour":"15:30",
+               "endhour":"15:50",
+               "teacher":"Paloma H.",
+               "semestre":"I"
+            },
+            {
+               "topic":"Diseño I",
+               "classroom":"2C",
+               "starthour":"15:50",
+               "endhour":"16:35",
+               "teacher":"Paloma H.",
+               "semestre":"I"
+            },
+            {
+               "topic":"Testing I",
+               "classroom":"2C",
+               "starthour":"16:35",
+               "endhour":"18:40",
+               "teacher":"Raúl Guajardo",
+               "semestre":"I"
+            }
+         ]
+      },
+      {
+         "id":2,
+         "day":"Tuesday",
+         "data":[
+            {
+               "topic":"Matemáticas I",
+               "classroom":"4A",
+               "starthour":"13:50",
+               "endhour":"17:30",
+               "teacher":"Profr. Raúl Rodríguez",
+               "semestre":"I"
+            },
+            {
+               "topic":"Física I",
+               "classroom":"2D",
+               "starthour":"17:30",
+               "endhour":"19:50",
+               "teacher":"Fernando Pérez",
+               "semestre":"I"
+            }
+         ]
+      },
+      {
+         "id":3,
+         "day":"Wednesday",
+         "data":[
+            {
+               "topic":"Inteligencia Artificial",
+               "classroom":"2A",
+               "starthour":"13:50",
+               "endhour":"16:35",
+               "teacher":"Dr. Harvey Alferez",
+               "semestre":"I"
+            },
+            {
+               "topic":"Realidad Aumentada",
+               "classroom":"2C",
+               "starthour":"16:35",
+               "endhour":"19:50",
+               "teacher":"Gerardo Romo",
+               "semestre":"I"
+            }
+         ]
+      },
+      {
+         "id":4,
+         "day":"Thursday",
+         "data":[
+            {
+               "topic":"Programación Web I",
+               "classroom":"3A",
+               "starthour":"13:50",
+               "endhour":"15:30",
+               "teacher":"Dr. Félix Muñóz",
+               "semestre":"I"
+            },
+            {
+               "topic":"Compiladores I",
+               "classroom":"1A",
+               "starthour":"13:50",
+               "endhour":"14:40",
+               "teacher":"Bill Gates",
+               "semestre":"I"
+            },
+            {
+               "topic":"Realidad Aumentada I",
+               "classroom":"4D",
+               "starthour":"14:40",
+               "endhour":"16:35",
+               "teacher":"Soraya López",
+               "semestre":"I"
+            },
+            {
+               "topic":"Redes I",
+               "classroom":"2D",
+               "starthour":"16:40",
+               "endhour":"18:35",
+               "teacher":"Carlos Sánchez",
+               "semestre":"I"
+            }
+         ]
+      },
+      {
+         "id":5,
+         "day":"Friday",
+         "data":[
+            {
+               "topic":"Base de datos",
+               "classroom":"3A",
+               "starthour":"13:50",
+               "endhour":"14:40",
+               "teacher":"Ing. Saulo Juárez",
+               "semestre":"I"
+            },
+            {
+               "topic":"Metodologías Ágiles",
+               "classroom":"1A",
+               "starthour":"13:50",
+               "endhour":"14:40",
+               "teacher":"Steve Jobs",
+               "semestre":"I"
+            },
+            {
+               "topic":"Emprendimiento I",
+               "classroom":"4D",
+               "starthour":"14:40",
+               "endhour":"13:30",
+               "teacher":"Elon Musk",
+               "semestre":"I"
+            },
+            {
+               "topic":"Big Data",
+               "classroom":"5D",
+               "starthour":"13:55",
+               "endhour":"14:35",
+               "teacher":"Dr. Edison Vázquez",
+               "semestre":"I"
+            }
+         ]
+      }
+   ]
 }

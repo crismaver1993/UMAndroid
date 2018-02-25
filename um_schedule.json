@@ -11,7 +11,7 @@
                "starthour":"13:50",
                "endhour":"15:30",
                "teacher":"Ing. Ignacio Cruz",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Hora del Poder",
@@ -19,7 +19,7 @@
                "starthour":"15:30",
                "endhour":"15:50",
                "teacher":"Paloma H.",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Diseño I",
@@ -27,7 +27,7 @@
                "starthour":"15:50",
                "endhour":"16:35",
                "teacher":"Paloma H.",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Testing I",
@@ -35,7 +35,7 @@
                "starthour":"16:35",
                "endhour":"18:40",
                "teacher":"Raúl Guajardo",
-               "semestre":"I"
+               "semester":"I"
             }
          ]
       },
@@ -49,7 +49,7 @@
                "starthour":"13:50",
                "endhour":"17:30",
                "teacher":"Profr. Raúl Rodríguez",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Física I",
@@ -57,7 +57,7 @@
                "starthour":"17:30",
                "endhour":"19:50",
                "teacher":"Fernando Pérez",
-               "semestre":"I"
+               "semester":"I"
             }
          ]
       },
@@ -71,7 +71,7 @@
                "starthour":"13:50",
                "endhour":"16:35",
                "teacher":"Dr. Harvey Alferez",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Realidad Aumentada",
@@ -79,7 +79,7 @@
                "starthour":"16:35",
                "endhour":"19:50",
                "teacher":"Gerardo Romo",
-               "semestre":"I"
+               "semester":"I"
             }
          ]
       },
@@ -93,7 +93,7 @@
                "starthour":"13:50",
                "endhour":"15:30",
                "teacher":"Dr. Félix Muñóz",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Compiladores I",
@@ -101,7 +101,7 @@
                "starthour":"13:50",
                "endhour":"14:40",
                "teacher":"Bill Gates",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Realidad Aumentada I",
@@ -109,7 +109,7 @@
                "starthour":"14:40",
                "endhour":"16:35",
                "teacher":"Soraya López",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Redes I",
@@ -117,7 +117,7 @@
                "starthour":"16:40",
                "endhour":"18:35",
                "teacher":"Carlos Sánchez",
-               "semestre":"I"
+               "semester":"I"
             }
          ]
       },
@@ -131,7 +131,7 @@
                "starthour":"13:50",
                "endhour":"14:40",
                "teacher":"Ing. Saulo Juárez",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Metodologías Ágiles",
@@ -139,7 +139,7 @@
                "starthour":"13:50",
                "endhour":"14:40",
                "teacher":"Steve Jobs",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Emprendimiento I",
@@ -147,7 +147,7 @@
                "starthour":"14:40",
                "endhour":"13:30",
                "teacher":"Elon Musk",
-               "semestre":"I"
+               "semester":"I"
             },
             {
                "topic":"Big Data",
@@ -155,7 +155,7 @@
                "starthour":"13:55",
                "endhour":"14:35",
                "teacher":"Dr. Edison Vázquez",
-               "semestre":"I"
+               "semester":"I"
             }
          ]
       }
